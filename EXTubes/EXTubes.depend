@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610547970 source:/home/user/Bureau/UE13_Systemes d exploitation/EXTubes/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+

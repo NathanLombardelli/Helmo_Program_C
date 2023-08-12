@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1610459639 source:/home/user/Bureau/UE13_Systemes d exploitation/exStrucutres/main.c
+	<stdio.h>
+	<stdlib.h>
+	"UE.h"
+
+1610392915 /home/user/Bureau/UE13_Systemes d exploitation/exStrucutres/UE.h
+
+1610379564 /home/user/Bureau/UE13_Systemes d exploitation/exStrucutres/encodage.c
+	"UE.h"
+
+1610384146 source:/home/user/Bureau/UE13_Systemes d exploitation/exStrucutres/encodage.c
+
+1610460751 source:/home/user/Bureau/UE13_Systemes d exploitation/exStrucutres/UE.c
+	<stdio.h>
+	<stdlib.h>
+	"UE.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605026197 source:/home/user/Bureau/UE13_Systemes d exploitation/Processus/main.c
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/wait.h>
+

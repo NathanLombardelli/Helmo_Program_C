@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610371441 source:/home/user/Bureau/UE13_Systemes d exploitation/conversion/main.c
+	<stdio.h>
+	<stdlib.h>
+	"fctConv.h"
+
+1610373205 /home/user/Bureau/UE13_Systemes d exploitation/conversion/fctConv.h
+	"convert.c"
+
+1610373192 /home/user/Bureau/UE13_Systemes d exploitation/conversion/convert.c
+

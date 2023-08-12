@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610571905 source:/home/user/Bureau/UE13_Systemes d exploitation/EXSignal/main.c
+	<stdio.h>
+	<signal.h>
+	<unistd.h>
+	<stdlib.h>
+

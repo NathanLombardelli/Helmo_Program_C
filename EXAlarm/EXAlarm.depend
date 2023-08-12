@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610572993 source:/home/user/Bureau/UE13_Systemes d exploitation/EXAlarm/main.c
+	<stdio.h>
+	<signal.h>
+	<unistd.h>
+	<stdlib.h>
+

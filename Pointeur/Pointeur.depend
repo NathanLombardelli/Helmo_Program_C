@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602591655 source:/home/user/Bureau/UE13_Systemes d exploitation/Pointeur/main.c
+	<stdio.h>
+	<stdlib.h>
+

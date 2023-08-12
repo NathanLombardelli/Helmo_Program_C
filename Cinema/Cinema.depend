@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603198248 source:/home/user/Bureau/UE13_Systemes d exploitation/Cinema/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cinema.h"
+
+1602139746 /home/user/Bureau/UE13_Systemes d exploitation/Cinema/cinema.h
+
+1603198436 source:/home/user/Bureau/UE13_Systemes d exploitation/Cinema/cinema.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cinema.h"
+

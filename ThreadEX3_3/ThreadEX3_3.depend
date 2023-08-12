@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610568277 source:/home/user/Bureau/UE13_Systemes d exploitation/ThreadEX3_3/main.c
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+

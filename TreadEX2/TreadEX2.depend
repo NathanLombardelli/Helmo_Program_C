@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610558863 source:/home/user/Bureau/UE13_Systemes d exploitation/TreadEX2/main.c
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+	<unistd.h>
+

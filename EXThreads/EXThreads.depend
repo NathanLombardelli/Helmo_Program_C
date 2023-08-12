@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610556490 source:/home/user/Bureau/UE13_Systemes d exploitation/EXThreads/main.c
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+	<unistd.h>
+

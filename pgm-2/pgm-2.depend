@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1604585386 source:/home/user/Bureau/UE13_Systemes d exploitation/stub/pgm-2/semadd.c
+	"semadd.h"
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/sem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1605018160 /home/user/Bureau/UE13_Systemes d exploitation/stub/pgm-2/semadd.h
+
+1610619803 source:/home/user/Bureau/UE13_Systemes d exploitation/stub/pgm-2/pgm2.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<sys/sem.h>
+	<string.h>
+	"struct.h"
+	"semadd.h"
+
+1605018746 /home/user/Bureau/UE13_Systemes d exploitation/stub/pgm-2/struct.h
+

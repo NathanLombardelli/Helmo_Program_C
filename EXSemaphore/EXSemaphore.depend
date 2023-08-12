@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610573768 source:/home/user/Bureau/UE13_Systemes d exploitation/EXSemaphore/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	"semadd.h"
+
+1610574300 /home/user/Bureau/UE13_Systemes d exploitation/EXSemaphore/semadd.h
+
